@@ -1,0 +1,6 @@
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\Music charts\Music charts\bin\Debug\Music charts.exe.config
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\Music charts\Music charts\bin\Debug\Music charts.exe
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\Music charts\Music charts\bin\Debug\Music charts.pdb
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\Music charts\Music charts\obj\Debug\Music charts.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\Music charts\Music charts\obj\Debug\Music charts.exe
+\\data.adir.hull.ac.uk\home5\515\515551\visual studio 2013\Projects\Music charts\Music charts\obj\Debug\Music charts.pdb
